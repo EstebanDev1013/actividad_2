@@ -1,2 +1,2 @@
-# actividad_2
-Videojuego Snake
+
+#Codigo original de Snake.py
